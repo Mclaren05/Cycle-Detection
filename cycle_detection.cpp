@@ -89,7 +89,7 @@ while( r!=NULL&&r->next!=NULL) // Condition 2
 return false;
 }
 
-
+// Default code of hackerrank solution 
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
